@@ -17,7 +17,7 @@ client= robloxapi.Client("Your Roblox Cookie")
 owner=[371019056419045376,449897807936225290] # Add discord ids of user who will have owner control over the bot, i.e, can use commands like setrank or shout
 maingroup = 0000000
 
-TOKEN = "Your Bot Token"
+TOKEN = "Nzc1NDIwMDM4MDcyODkzNDcw.X6mELw.jwxg4v-MTejnRVN9ds5UNpVCLHY"
 
 #Don't share your token with anyone. Tokens are like a password to the bot. If someone has your token, they have full control over your bot.
 #If you have accidently revelead it, you can Regenerate it from the application page
